@@ -1,5 +1,3 @@
-# arduino-project
-
 # Arduino Temperature Logger
 
 ![Demo](link_to_demo_screenshot.png)
